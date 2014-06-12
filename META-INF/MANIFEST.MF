@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Gerrit-ApiType: plugin
+Implementation-Vendor: Gerrit Code Review
+Implementation-Version: v2.8.5
